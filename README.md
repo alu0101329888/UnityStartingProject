@@ -21,3 +21,5 @@ Para que lo anterior funcionase, los objetos de la escena fueron atribuídos la 
 GIF con la ejecución del proyecto y resultado por consola.
 
 ![ejecución](img/ejecucion.gif)
+
+Como puede verse, se ha realizado también el punto opcional de añadir un terreno, este terreno tiene dos capas con dos texturas distintas y cambios de altura para aparentar montañas, no solo eso, se han añadido árboles de otros paquetes de la Unity Asset Store.
